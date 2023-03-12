@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+   }
+
+   @font-face {
+    font-family:'Inter';
+    src: url(../fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+.box-nummer{
+    padding: 285px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color:#FFFFFF ;
+}
